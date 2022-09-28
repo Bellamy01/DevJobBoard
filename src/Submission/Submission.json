@@ -61,13 +61,21 @@
 	},
         {
 		"name" : "Jazzy Bruno DUSHIMIYIMANA",
-		"img" : "https://avatars.githubusercontent.com/u/95282931?s=400&u=7a6dfd2ff38b234ba7298da4641c75d303df3341&v=4",
+		"img" : "https://avatars.githubusercontent.com/u/99047242?s=96&v=4",
 		"email" : "jazzybruno45@gmail.com",
 		"linkedin" : "https://www.linkedin.com/in/jazzy-bruno-b9861a225/",
 		"website" : "jazzybruno.verce.app",
 		"github" : "https://github.com/jazzybruno",
 		"jobTitle" : "Software Engineer",
 		"location": "Nyamata , Rwanda"
-	 }
-	
+	 },
+	{
+		"name" : "BIRAMAHIRE Dan Bellamy",
+		"img" : "https://avatars.githubusercontent.com/u/99047242?s=400&u=433656dfd8a9900f41c39475d4278d2baeb71b38&v=4",
+		"email" : "bdanbellamy@gmail.com",
+		"linkedin" : "https://www.linkedin.com/in/biramahire-dan-bellamy-641060231/",
+		"website" : "",
+		"github" : "https://github.com/Bellamy01",
+		"jobTitle" : "Software Developer",
+		"location": "Kigali , Rwanda"
 ]
